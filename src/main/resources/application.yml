@@ -1,0 +1,3 @@
+sofa:
+  base:
+    url: https://api.sofascore.com/api/v1/
